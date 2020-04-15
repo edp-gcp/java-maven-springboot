@@ -1,4 +1,4 @@
-name: java-maven-springboot1
+name: java-maven-springboot
 namespace: ""
 cdPipelineName: ""
 cdPipelineStageName: ""
@@ -12,5 +12,5 @@ ingress:
   required: false
 
 image:
-  name: java-maven-springboot1
+  name: java-maven-springboot
   version: latest
