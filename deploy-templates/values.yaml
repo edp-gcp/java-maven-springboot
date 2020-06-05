@@ -2,7 +2,7 @@ name: java-maven-springboot
 namespace: ""
 cdPipelineName: ""
 cdPipelineStageName: ""
-dnsWildcard: k9s.ru
+dnsWildcard: k99s.gq
 
 database:
   required: false
